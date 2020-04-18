@@ -26,6 +26,7 @@ intents:
 
 - COVID-19
 - coronavírus
+- em_casa
 - fake_news
 
 entities:
@@ -154,3 +155,4 @@ responses:
 actions:
 - action_teste
 - action_cpf
+utter_COVID_19_:

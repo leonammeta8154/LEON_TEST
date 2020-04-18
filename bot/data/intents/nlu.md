@@ -332,22 +332,29 @@
 - Como que vc pode me ser útil?
 - Me fale mais sobre você.
 
-## intent:COVID_19
-- o que é o novo coronavírus
-- o que é o novo coronavirus
-- o que é o novo COVID-19
-- o que é o novo COVID 19
-- o que é o novo COVID_19
-- o que é o novo COVID_1
-- o que é o novo COVID_199
-- o que é o novo COVID_
-- Quem deve fazer o teste para a COVID-19? 
-- Existe um tratamento para o COVID-19
-- Quais são os sintomas?
-- Quando eu devo ir ao hospital?
-- Quais são os grupos de maior risco?
-- Quais as pessoas de maior risco?
+## intent: alerta
+- nível de alerta mudou?
+- nível de alerta mudou no Brasil?
+- nível de alerta mudou no brasil?
+- nível de alerta mudou?
+- nivel de alerta mudou?
+- nível de alerta mudou
+- nível de alerta aumentou?
+- nível de alerta mudou
+- NV de alerta mudou?
+- Nv de aleta mudou?
+- nível
+- de alerta
 
-## intent: fake_news
+## intent:fake_news
 - Essa noticia é verdadeira
 - gatos trasmitem COVID 19 coronavírus?
+
+## intent: Visita
+- Posso receber um amigo sem sintomas em casa?
+- Posso receber um amigo em casa?
+- Eu posso receber um amigo sem sintomas em casa?
+- Posso receber a namarada sem sintomas em casa?
+- Posso receber a minha namarado sem sintomas em casa?
+- Eu Posso visitar a minha namarada sem sintomas?
+- Eu posso visitar o meu namorado sem sintomas?
