@@ -8,7 +8,11 @@
     - utter_incubação
     - utter_continuar_conversa
     
-    ## trasmição
-    * trasmição
+## trasmição   
+* trasmição
     - utter_transmição
     - utter_continuar_conversa
+    
+## treino
+* treino
+    - utter_treino

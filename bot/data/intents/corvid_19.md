@@ -80,4 +80,34 @@
 - período de incubação do coronavírus?
 - incubação
 
-## intent: 
+## intent: treino
+- como posso treinar em casa?
+- dicas de treino
+- treinos em casa
+- trenos em casa
+- treino em casa
+- tem algum treinos pra eu fazer em casa?
+- tem algum treino pra min?
+- dicas de exercícios
+- tem alguma dicas de exercícios
+- dicas de treino
+- exercícios físicos
+- exercícios
+- exercicio
+- exercicios
+- treinar
+- treino
+- treinos
+- treno
+- trenos
+
+## intent: Teste PCR
+- o que é o Teste PCR
+- o que é o teste PCR
+- o que é o Teste Pcr
+- o que é o Teste pcr
+- o que e o Teste PCR
+- Teste PCR
+- PCR
+- Pcr
+- pcr
