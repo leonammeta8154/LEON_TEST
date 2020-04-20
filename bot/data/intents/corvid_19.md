@@ -72,3 +72,12 @@
 - nível
 - de alerta
 - alerta
+
+## intent: incubação
+- qual o período de incubação do coronavírus?
+- Período de incubação do coronavírus?
+- periodo de incubação do coronavírus?
+- período de incubação do coronavírus?
+- incubação
+
+## intent: 

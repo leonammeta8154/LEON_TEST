@@ -1,8 +1,14 @@
-## sintomas
-* COVID_19
-    - utter_COVID_19_sintomas
+## Q_COVID_19
+* Q_COVID_19
+    - utter_Q_COVID_19
     - utter_continuar_conversa
 
-## Q_COVID_19
-* COVID_19
-- 
+## incubação
+* incubação
+    - utter_incubação
+    - utter_continuar_conversa
+    
+    ## trasmição
+    * trasmição
+    - utter_transmição
+    - utter_continuar_conversa

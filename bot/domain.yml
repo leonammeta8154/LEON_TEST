@@ -28,6 +28,7 @@ intents:
 - coronavírus
 - em_casa
 - fake_news
+- incubação
 
 entities:
 - linguagens
@@ -146,12 +147,21 @@ responses:
   utter_COVID_19_sintomas:
 - text: “Os sintomas podem variar de um simples resfriado até uma pneumonia severa. Sendo os sintomas mais comuns são Tosse, Febre, Coriza, Dor de garganta e Dificuldade para respirar\n”
 - text: "O teste é mais recomendado para pacientes com sintomas e graves e a profissionais de saúde\n"
-  utter_dicas:
-  - text: "Sabia que ficando em casa esta ajudando não só você mais varias pessoas nessa luta?\n"
-  - text: "Lave muito bem as mãoes e o cão e não o gato\n"
    utter_Q_COVID_19:
-  - text: "Coronavírus é uma família de vírus que pode causar uma serie de causar doenças e infecções respiratórias que variam de um simples resfriado ao até uma grave doenças respiratórias.\n"
-
+  - text: "Coronavírus é uma família de vírus que de causar uma serie de doenças e infecções respiratórias que variam de um simples resfriado até uma grave doenças respiratórias.\n"
+  - text: "COVID-19 foi o nome oficial adotado pela OMS para a doença causada pelo novo coronavírus, que provoca uma grave doenças respiratórias."
+   utter_incubação:
+    - text: "O período de incubação do coronavírus é de 2 a 14 dias, durante esse periodo os passientes podem primeiros sintomas aparecerem desde a infecção.\n"
+    utter_transmição:
+        - text: "De uma forma geral, a transmissão viral ocorre apenas enquanto persistirem os sintomas\
+        \ é possível a transmissão viral após a resolução dos sintomas, mas a duração do período de transmissibilidade é desconhecido para o coronavírus.\
+        \ Durante o período de incubação e casos assintomáticos não são contagiosos.\n"
+        - text: "O coronavírus, que provoca a COVID-19, pode ser transmitido de uma pessoa para outra.\
+        \ A transmissão pode ocorrer através de gotículas de saliva ou muco, expelidos pela boca ou narinas quando uma pessoa infectada tosse ou espirra.\
+        \ Essas gotículas pousam em objetos e superfícies ao redor da pessoa.\n"
+        - text: "COVID-19 é transmitido através de pessoas infectadas\ 
+        \ por gotículas de saliva ou muco expelidos pela boca ou narinase quando 
+        \ expelidos podem se fixar em objetos ou superfícies onde a um risco de uma pessoa tocar nesse objeto e tocar olhos, nariz ou boca se infectando com a COVID-19."
 actions:
 - action_teste
 - action_cpf
@@ -161,3 +171,5 @@ actions:
 - utter_elogios
 - utter_continuar_conversa
 - utter_risada
+- utter_incubação
+- utter_transmição
