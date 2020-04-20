@@ -226,12 +226,3 @@
 ## objetivo
 * objetivo
     - utter_objetivo
-
-## sintomas
-* COVID_19
-    - utter_COVID_19_sintomas
-    - utter_continuar_conversa
-
-## COVID_19 1
-* COVID_19
-- 

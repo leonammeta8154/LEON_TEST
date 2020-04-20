@@ -24,7 +24,7 @@ intents:
 - informa_cpf
 - objetivo
 
-- COVID-19
+- Q_COVID_19
 - coronavírus
 - em_casa
 - fake_news
@@ -149,10 +149,15 @@ responses:
   utter_dicas:
   - text: "Sabia que ficando em casa esta ajudando não só você mais varias pessoas nessa luta?\n"
   - text: "Lave muito bem as mãoes e o cão e não o gato\n"
-   utter_COVID_19_:
-  - text: "\n"
+   utter_Q_COVID_19:
+  - text: "Coronavírus é uma família de vírus que pode causar uma serie de causar doenças e infecções respiratórias que variam de um simples resfriado ao até uma grave doenças respiratórias.\n"
 
 actions:
 - action_teste
 - action_cpf
-utter_COVID_19_:
+- utter_Q_COVID_19
+- utter_fallback
+- utter_diga_mais
+- utter_elogios
+- utter_continuar_conversa
+- utter_risada
