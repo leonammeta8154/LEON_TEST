@@ -29,6 +29,7 @@ intents:
 - em_casa
 - fake_news
 - incubação
+- treino
 
 entities:
 - linguagens
@@ -156,12 +157,20 @@ responses:
         - text: "De uma forma geral, a transmissão viral ocorre apenas enquanto persistirem os sintomas\
         \ é possível a transmissão viral após a resolução dos sintomas, mas a duração do período de transmissibilidade é desconhecido para o coronavírus.\
         \ Durante o período de incubação e casos assintomáticos não são contagiosos.\n"
-        - text: "O coronavírus, que provoca a COVID-19, pode ser transmitido de uma pessoa para outra.\
-        \ A transmissão pode ocorrer através de gotículas de saliva ou muco, expelidos pela boca ou narinas quando uma pessoa infectada tosse ou espirra.\
+        - text: "A transmissão pode ocorrer através do gotículas de saliva ou muco, expelidos pela boca ou narinas quando uma pessoa infectada tosse ou espirra e pelo ar.\
         \ Essas gotículas pousam em objetos e superfícies ao redor da pessoa.\n"
         - text: "COVID-19 é transmitido através de pessoas infectadas\ 
         \ por gotículas de saliva ou muco expelidos pela boca ou narinase quando 
-        \ expelidos podem se fixar em objetos ou superfícies onde a um risco de uma pessoa tocar nesse objeto e tocar olhos, nariz ou boca se infectando com a COVID-19."
+        \ expelidos podem se fixar em objetos ou superfícies onde a um risco de uma pessoa tocar nesse objeto e em seguida toquem olhos, nariz ou boca se infectando com a COVID-19."
+    utter_treino:
+    - text: "tenho uma boa dica de treino pra você: https://1drv.ms/u/s!An3hzc8d0j15nhOkqqBiFdQgsVbe?e=QDU4gr\n\ "
+    - text: "Que uma dica saca sṍ essa: https://1drv.ms/u/s!An3hzc8d0j15nhinDvpspRPkO-q_?e=KmUTLf\n\ "
+    - text: "Dançar é um ótimo exercio é botar uma música ou um clipe da sua banda favorita e tentar acompanhar a correografia. Posso fazer isso com todos estão de quarentena com você\n"
+    utter_PCR:
+    - text: "É um teste específico utilizado para identificar o coronavírus no organismo de pacientes com suspeita do vírus, com altíssima precisão.\
+    \ os teste podem levar 3 a 4 dias, porém dezido a demanda por esse test esse prazo pode se extende por mais de uma semana\n"
+
+
 actions:
 - action_teste
 - action_cpf
@@ -173,3 +182,4 @@ actions:
 - utter_risada
 - utter_incubação
 - utter_transmição
+- Utter_treino
