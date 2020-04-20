@@ -165,7 +165,7 @@ responses:
     utter_treino:
     - text: "tenho uma boa dica de treino pra você: https://raw.githubusercontent.com/leonammeta8154/LEON_TEST/master/bot/data/Projeto/Fotos/Treinos/01.jpg\n\ "
     - text: "Que uma dica saca sṍ essa: https://raw.githubusercontent.com/leonammeta8154/LEON_TEST/master/bot/data/Projeto/Fotos/Treinos/02.jpg\n\ "
-    - text: "Dançar é um ótimo exercio é botar uma música ou um clipe da sua banda favorita e tentar acompanhar a correografia. Posso fazer isso com todos estão de quarentena com você\n"
+    - text: "Dançar é um ótimo exercio é botar uma música ou um clipe da sua banda favorita e tentar acompanhar a correografia. Você de pode fazer isso com todos que estão de quarentena com você\n"
     utter_PCR:
     - text: "É um teste específico utilizado para identificar o coronavírus no organismo de pacientes com suspeita do vírus, com altíssima precisão.\
     \ os teste podem levar 3 a 4 dias, porém dezido a demanda por esse test esse prazo pode se extende por mais de uma semana\n"
