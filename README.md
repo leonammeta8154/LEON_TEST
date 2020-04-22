@@ -1,8 +1,3 @@
-<a href="https://img.freepik.com/vetores-gratis/pagina-de-destino-plana-de-chatbot-com-cabecalho-modelo-de-banner_9209-2739.jpg?size=626&ext=jpg"/></a>
-
-
-
-
 # Rasa Boilerplate
 <!-- badges -->
 <a href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html"><img src="https://img.shields.io/badge/licence-GPL3-green.svg"/></a>
